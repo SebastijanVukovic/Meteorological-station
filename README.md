@@ -1,4 +1,4 @@
-# Meteorological-station
+# Meteorological station
 Simple meteorological station student project made using mbed OS.
 
 Sensor used and code written was for BME680, naming was left from BME280 that was previously used.
