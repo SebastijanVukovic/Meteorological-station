@@ -1,7 +1,8 @@
 # Meteorological station
 Simple meteorological station student project made using mbed OS.
 
-Sensor used and code written was for BME680, naming was left from BME280 that was previously used.
+Sensor used and code written was for BME680, naming was left from BME280 that was previously used in the project.
+Library for OLED display was used and can be found on the following link: https://os.mbed.com/users/Anaesthetix/code/SSH1106/
 
 ![image](https://user-images.githubusercontent.com/103043443/161752707-2b3b16d4-b333-4b74-9b8b-5ae38411873c.png)
 
